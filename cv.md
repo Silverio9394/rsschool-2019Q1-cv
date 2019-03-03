@@ -8,6 +8,7 @@
   let result = 9/5*temperature+32;
  return result;
  };
+ 
 6. Tests from https://www.codecademy.com
 7. 2015 Gomel State Technical University
 8. A2 - Pre-Intermediate 
